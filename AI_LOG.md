@@ -53,7 +53,7 @@ Các nội dung do AI đề xuất được xem xét, điều chỉnh và kiểm
 - Mã nguồn có thể phát sinh lỗi về đường dẫn, bố cục hoặc hiển thị trên các thiết bị.
 - AI không thể thay thế việc chạy website, kiểm thử thực tế và đánh giá của người thực hiện.
 - Biểu mẫu liên hệ hiện chưa lưu dữ liệu, gửi email hoặc kết nối backend.
-- Website chưa được triển khai công khai và URL GitHub Pages chưa có.
+- Website đã được triển khai công khai bằng GitHub Pages tại `https://hung-lt.github.io/DegsLand/`.
 - Hình ảnh ngoài được tải từ Unsplash nên có thể phụ thuộc vào kết nối Internet.
 
 ## 5. Cách kiểm soát và xác minh kết quả
@@ -66,7 +66,7 @@ Các nội dung do AI đề xuất được xem xét, điều chỉnh và kiểm
 - Ghi lại kết quả kiểm thử và lưu ảnh minh chứng.
 - Điều chỉnh mã nguồn khi phát hiện lỗi hoặc nội dung chưa phù hợp.
 - Đối chiếu tài liệu README và test case với cấu trúc thư mục, mã nguồn và kết quả kiểm thử thực tế.
-- Không ghi là đã triển khai nếu website chưa có URL công khai.
+- Cập nhật trạng thái triển khai trong tài liệu khi website đã có URL công khai.
 
 ## 6. Kết luận
 

@@ -26,7 +26,7 @@ Dự án được xây dựng bằng HTML5 và CSS3, tập trung vào việc thi
 | Visual Studio Code | Môi trường phát triển |
 | Live Server | Chạy website cục bộ |
 | Git/GitHub | Quản lý và lưu trữ mã nguồn (nếu đã khởi tạo repository) |
-| GitHub Pages | Phương án triển khai website tĩnh trong tương lai |
+| GitHub Pages | Triển khai website tĩnh công khai |
 
 ## 4. Các chức năng và khu vực chính
 
@@ -101,14 +101,12 @@ Minh chứng kiểm thử được lưu trong thư mục:
 
 ## 8. Triển khai website
 
-Hiện tại website chưa được triển khai công khai. Có thể triển khai bằng GitHub Pages sau khi:
+Website đã được triển khai bằng GitHub Pages.
 
-- Tạo repository trên GitHub.
-- Đẩy toàn bộ mã nguồn lên repository.
-- Bật GitHub Pages trong phần `Settings > Pages`.
-- Cập nhật `Repository` và `Website` sau khi triển khai:
-  - **Repository:** Chưa cập nhật
-  - **Website:** Chưa triển khai
+- **Repository:** [hung-lt/DegsLand](https://github.com/hung-lt/DegsLand)
+- **Website:** [https://hung-lt.github.io/DegsLand/](https://hung-lt.github.io/DegsLand/)
+
+Website công khai đã được truy cập và kiểm tra nội dung thành công.
 
 ## 9. Hướng phát triển
 
